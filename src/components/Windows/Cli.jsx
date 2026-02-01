@@ -1,5 +1,5 @@
 import React from 'react'
-import MacWindow from './macWindow'
+import MacWindow from './MacWindow'
 import Terminal from 'react-console-emulator'
 import "./cli.scss"
 

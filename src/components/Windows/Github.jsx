@@ -1,5 +1,5 @@
 import React from 'react'
-import MacWindow from './macWindow'
+import MacWindow from './MacWindow'
 import githubData from "../../assets/github.json"
 import './github.scss'
 
